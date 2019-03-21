@@ -1,19 +1,32 @@
 body{
 text-align: center;
+font-family: arial;
 }
 
 img{
-  height: 200px;
-  width: 50%;
+  height: 275x;
+  width: 20%
 }
 
-h1{
+.flashy{
   font-family: 'Varela Round', sans-serif;
   font-size: 40px;
-  color: #15CD95;
+  color: #E42909;
+  font-style: italic;
+  font-weight: 400;
 }
 
 p{
   font-size: 20px;
 
+}
+
+p.intro{
+text-align: center;
+
+}
+
+p.Contact{
+text-align: left;
+text-align: bold;
 }
